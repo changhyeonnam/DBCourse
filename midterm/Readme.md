@@ -2,13 +2,9 @@
 
 ## Designing and Implementing script of a database for ITS company
 
----
-
 This report is about Database midterm assignment. In the report, there are Desription for each table and SQL script for each table and result from colab notebook. Instead of ERD model file, I’m submitting EER diagram model file(.mwb file) and .sql file from Mysql workbench. (I used Workbench instead of ERWIN modeller because mac doesn’t supprot ERWIN modeller.)
 
 ## Environment
-
----
 
 - SQL : Mysql 8.0.30
 - SQL ide : Mysql workbench 8.0
@@ -17,13 +13,9 @@ This report is about Database midterm assignment. In the report, there are Desri
 
 ## ERD model diagram (=EER model diagram)
 
----
-
 ![Screen Shot 2022-10-23 at 10.02.37 PM.png](DATABASE%20MIDTERM%20ASSIGNMENT_12171483_NamChanghyeon%20e1c210998f1a41eea34a51802b797a77/Screen_Shot_2022-10-23_at_10.02.37_PM.png)
 
 ## Table Description
-
----
 
 There are 6 tables. I explained each table below.
 
@@ -103,8 +95,6 @@ There are 6 tables. I explained each table below.
 
 ## Script
 
----
-
 I will explain script for each table.
 
 ### 1. Booking table
@@ -147,7 +137,6 @@ I will explain script for each table.
     ```
     
 
----
 
 ### 2. location table
 
@@ -200,8 +189,6 @@ I will explain script for each table.
     ```
     
 
----
-
 ### 4. Vehicle table
 
 - A script for creating tables
@@ -227,8 +214,6 @@ I will explain script for each table.
     ```
     
 
----
-
 ### 5. Official table
 
 - A script for creating tables
@@ -253,7 +238,6 @@ I will explain script for each table.
     ```
     
 
----
 
 ### 6. Driver table
 
@@ -287,7 +271,6 @@ I will explain script for each table.
 
 ## Result from Jupyterbook (colab)
 
----
 
 ![Screen Shot 2022-10-23 at 9.51.10 PM.png](DATABASE%20MIDTERM%20ASSIGNMENT_12171483_NamChanghyeon%20e1c210998f1a41eea34a51802b797a77/Screen_Shot_2022-10-23_at_9.51.10_PM.png)
 
